@@ -6,3 +6,4 @@ var n=3;
 var p=4;
 var i=3;
 var t=3;
+var n=4;
